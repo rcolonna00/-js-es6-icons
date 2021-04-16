@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+/* MAIN */
+/* ICONS-SECTION */
+.icons-section{
+    background-color: lightgrey;
+}
+
+.icons-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.icon{
+    background-color: white;
+    width: calc( ( 100% / 5 ) - 30px );
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.icon i {
+    font-size: 45px;
+}
+
+/* FINE ICONS-SECTION */
+/* FINE MAIN */
