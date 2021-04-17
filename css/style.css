@@ -10,6 +10,15 @@
 }
 
 /* MAIN */
+/* SEARCH SECTION */
+.search-section{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+/* FINE SEARCH SECTION */
+
 /* ICONS-SECTION */
 .icons-section{
     background-color: lightgrey;
